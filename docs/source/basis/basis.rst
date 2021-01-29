@@ -35,7 +35,7 @@ details in the following sections.
             print(change)
 
 
-    class NewCompactObject(Atom):
+    class NewCompactObject(CompactObject):
         """Subclass with different default values.
 
         """
